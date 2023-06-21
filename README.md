@@ -7,11 +7,11 @@ To have the input files `etappen.csv` and `zielpersonnen.csv`, please write at q
 ## Important files/folders
 ### Code
 
-- `Features selection/2023_06_21_motifs_generation.ipynb` :
-- `Features selection/2023_06_21_features_selection.ipynb` :
-- `Gibbs sampler/2023_06_21_slot_definition.ipynb` :
-- `Gibbs sampler/2023_06_21_preferred_act_generation.ipynb` :
-- `Gibbs sampler/2023_06_21_preferred_act_visualisation.ipynb` :
+- `Features selection/2023_06_21_motifs_generation.ipynb` : Generation of motif
+- `Features selection/2023_06_21_features_selection.ipynb` : Features selection
+- `Gibbs sampler/2023_06_21_slot_definition.ipynb` : Time slots definition
+- `Gibbs sampler/2023_06_21_preferred_act_generation.ipynb` : Generation of preferred activities
+- `Gibbs sampler/2023_06_21_preferred_act_visualisation.ipynb` : Visualisation of preferred activities
 
 ### Input files
 `etappen.csv`: All trips included.
