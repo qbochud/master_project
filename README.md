@@ -1,6 +1,6 @@
 # master_project
 
-This repository contains the codes and the results of the master project about Synthetic activity-related data generation.
+This repository contains the codes and the results of the master project about synthetic activity-related data generation.
 
 To have the input files `etappen.csv` and `zielpersonnen.csv`, please write at quentin.bochud@epfl.ch
 
